@@ -1,5 +1,7 @@
 # vagrant-ubuntu16.04-desktop-java-eclipse-scala-play
-Sping up a development environment based on Ubuntu Desktop 16.04, with eclipse, scala, mongodb and play framework. A Vagrant File to create Ubuntu-16.04-Desktop environment. Also associated is a provision.sh bash script to install the development tools.
+Spin up a development environment based on Ubuntu Desktop 16.04, with eclipse, scala, mongodb and play framework.
+
+A Vagrant File to create Ubuntu-16.04-Desktop environment. Also associated is a provision.sh bash script to install the development tools.
 
 
 To have the development environment
